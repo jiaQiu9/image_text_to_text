@@ -21,7 +21,7 @@ tesseract --version
 5. if tesseract path is not found in  python
 import pytesseract
 
-# Set the path to Tesseract (check with `which tesseract`)
+Set the path to Tesseract (check with `which tesseract`)
 pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
 print(pytesseract.get_tesseract_version())
