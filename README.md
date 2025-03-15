@@ -32,3 +32,8 @@ python3 your_script.py
 
 
 source myenv/bin/activate
+
+
+## NOTE:
+this version is not outputing accurate text from images.
+Moving on to another project for the samething.
